@@ -216,7 +216,7 @@ nav ul li a:hover {
 }
 
 .Streaming img {
-  border-radius: 10px;
+  border-radius: 50px;
   padding-bottom: 10px;
 }
 
@@ -229,7 +229,8 @@ nav ul li a:hover {
 }
 
 .Voucher img {
-  border-radius: 10px;
+  border-radius: 50px;
+  padding-bottom: 10px;
 }
 
 .tentang {
